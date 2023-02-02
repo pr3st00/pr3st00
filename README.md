@@ -1,8 +1,8 @@
 ### Fernando Almeida
 
 <div>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pr3st00"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pr3st00&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pr3st00"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pr3st00&layout=compact"/>
 </div>
   
 <!--
